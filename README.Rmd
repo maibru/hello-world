@@ -1,7 +1,0 @@
-# hello-world
-Pagina Web en GitHub
-Es una prueba
-```{r}
-sum(rnorm(19))
-```
-
